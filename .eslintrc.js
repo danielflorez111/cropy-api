@@ -24,6 +24,7 @@ module.exports = {
     'no-debugger': 2,
     'no-empty': 2,
     'no-irregular-whitespace': 2,
+    'no-trailing-spaces': 2,
     'quotes': [2, 'single'],
   },
 };
