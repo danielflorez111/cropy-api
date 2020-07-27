@@ -20,5 +20,10 @@ module.exports = {
     '@typescript-eslint/interface-name-prefix': 'off',
     '@typescript-eslint/explicit-function-return-type': 'off',
     '@typescript-eslint/no-explicit-any': 'off',
+    'no-console': 2,
+    'no-debugger': 2,
+    'no-empty': 2,
+    'no-irregular-whitespace': 2,
+    'quotes': [2, 'single'],
   },
 };
